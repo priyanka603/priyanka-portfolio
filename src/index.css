@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-gradient: linear-gradient(45deg, #bb9af7, #7aa2f7);
+  --surface-gradient: linear-gradient(to bottom right, #24283b, #1a1b26);
+}
+
+body {
+  @apply bg-gray-900 text-white;
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #1a1b26;
+  color: #c0caf5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.gradient-text {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.isometric-card {
+  transform: perspective(1000px) rotateX(10deg) rotateY(-20deg);
+  transition: transform 0.3s ease;
+}
+
+.isometric-card:hover {
+  transform: perspective(1000px) rotateX(5deg) rotateY(-10deg) translateZ(20px);
+}
+
+section {
+  scroll-margin-top: 2rem;
+}
+
+section[data-index] {
+  scroll-snap-align: start;
+  scroll-margin-top: 0;
+}
+
+/* Add smooth scrolling to the main container */
+main {
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  height: 100vh;
+}
+
+.bg-projects {
+  background: var(--surface-gradient);
+}
+
+.card-hover {
+  transition: all 0.3s ease;
+  background: linear-gradient(145deg, rgba(36, 40, 59, 0.8), rgba(26, 27, 38, 0.8));
+  backdrop-filter: blur(10px);
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px -10px rgba(187, 154, 247, 0.2);
+  background: linear-gradient(145deg, rgba(36, 40, 59, 0.9), rgba(26, 27, 38, 0.9));
+}
+
+.glass-effect {
+  background: rgba(36, 40, 59, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(187, 154, 247, 0.1);
+}
