@@ -1,15 +1,38 @@
 {
   "files": {
     "main.css": "/priyanka-portfolio/static/css/main.009dfe40.css",
-    "main.js": "/priyanka-portfolio/static/js/main.4e9719a9.js",
+    "main.js": "/priyanka-portfolio/static/js/main.eacbd350.js",
     "static/js/453.a323da08.chunk.js": "/priyanka-portfolio/static/js/453.a323da08.chunk.js",
+    "static/media/profile.jpg": "/priyanka-portfolio/static/media/profile.fbe966c8ea412c5d96c1.jpg",
+    "static/media/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20210712-58-17aaiwa.pdf": "/priyanka-portfolio/static/media/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20210712-58-17aaiwa.5d97037d4eea499f3913.pdf",
+    "static/media/security-dashboard.png": "/priyanka-portfolio/static/media/security-dashboard.9c3d24c116228f02c12c.png",
+    "static/media/invoice-system.png": "/priyanka-portfolio/static/media/invoice-system.da7ccd658f09cf30536c.png",
+    "static/media/cloud-native.pdf": "/priyanka-portfolio/static/media/cloud-native.268626192067ed2fe8b7.pdf",
+    "static/media/contribution-analysis.jpg": "/priyanka-portfolio/static/media/contribution-analysis.ecfdfad33e5b2617be08.jpg",
+    "static/media/Programming for eveybody.pdf": "/priyanka-portfolio/static/media/Programming for eveybody.352b5d7bb997b0f72fa9.pdf",
+    "static/media/python data structure .pdf": "/priyanka-portfolio/static/media/python data structure .456c789ad006c85cab62.pdf",
+    "static/media/Introduction to iot.pdf": "/priyanka-portfolio/static/media/Introduction to iot.ddfa4984600740b3259f.pdf",
+    "static/media/aws.svg": "/priyanka-portfolio/static/media/aws.b5e385c718a206ca2bf440bc536f9415.svg",
+    "static/media/coursera.svg": "/priyanka-portfolio/static/media/coursera.0c2a678d1efb0488eb4d7406d34ce9c5.svg",
+    "static/media/react.svg": "/priyanka-portfolio/static/media/react.629057ed0fc80644cb0e8396eadef5c9.svg",
+    "static/media/bootstrap.svg": "/priyanka-portfolio/static/media/bootstrap.dc2bdb6d6a9b7fb6aefb6f9ad6a91ed3.svg",
+    "static/media/redux.svg": "/priyanka-portfolio/static/media/redux.45a3ba061cc738908b7aa445894bd0b8.svg",
+    "static/media/git.svg": "/priyanka-portfolio/static/media/git.89ffa368ab303592bb9ad41ae79e577a.svg",
+    "static/media/nodejs.svg": "/priyanka-portfolio/static/media/nodejs.6d04d6b6a62dda37a3e81874ffcfda15.svg",
+    "static/media/python.svg": "/priyanka-portfolio/static/media/python.c67b245f96ab2cb183720935ddeaa8ed.svg",
+    "static/media/mongodb.svg": "/priyanka-portfolio/static/media/mongodb.a5648f392277b1dbb0bc91dd0407fd64.svg",
+    "static/media/vscode.svg": "/priyanka-portfolio/static/media/vscode.438ff51f23c5071d8361b95a28fda71f.svg",
     "index.html": "/priyanka-portfolio/index.html",
+    "static/media/javascript.svg": "/priyanka-portfolio/static/media/javascript.ee22f0436e2748acb47a26faca9eaaba.svg",
+    "static/media/figma.svg": "/priyanka-portfolio/static/media/figma.ba67a69274e6b9def89ed5c529e6f5ec.svg",
+    "static/media/css3.svg": "/priyanka-portfolio/static/media/css3.9c320befd3b8109887abcc44a3761f91.svg",
+    "static/media/html5.svg": "/priyanka-portfolio/static/media/html5.13a261af8bb48924e084dd338f2c04fe.svg",
     "main.009dfe40.css.map": "/priyanka-portfolio/static/css/main.009dfe40.css.map",
-    "main.4e9719a9.js.map": "/priyanka-portfolio/static/js/main.4e9719a9.js.map",
+    "main.eacbd350.js.map": "/priyanka-portfolio/static/js/main.eacbd350.js.map",
     "453.a323da08.chunk.js.map": "/priyanka-portfolio/static/js/453.a323da08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.009dfe40.css",
-    "static/js/main.4e9719a9.js"
+    "static/js/main.eacbd350.js"
   ]
 }
